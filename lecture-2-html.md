@@ -1,4 +1,4 @@
-# 1.1.2 - HTML or How To Make Lasagna*
+# 1.1.2 - HTML or How To Make Lasagna\*
 
 ---
 
@@ -84,9 +84,9 @@ Anytime you catch yourself thinking...
 ### Semantic HTML = Google
 
 1. It pleases Google.
-    - Easier for its algorithm to crawl and index site
-    - Meaning a better ranking in searhc results
-    - Less of a need to "game" the Google algorithm
+   - Easier for its algorithm to crawl and index site
+   - Meaning a better ranking in search results
+   - Less of a need to "game" the Google algorithm
 
 ---
 
@@ -116,7 +116,7 @@ Anytime you catch yourself thinking...
 
 ### Semantic HTML = Accessibility
 
-- Fines of up to $250,000. 😬
+- Fines of up to \$250,000. 😬
 
 ---
 
@@ -127,14 +127,14 @@ Anytime you catch yourself thinking...
 ## Common HTML Tags (4.01+)
 
 - Block-level elements
-    - `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`, `<p>`
-    - `<ul>`, `<ol>`, `<li>`, `<blockquote>`, `<table>`,
-    - `<form>`
-    - `<div>`
+  - `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`, `<p>`
+  - `<ul>`, `<ol>`, `<li>`, `<blockquote>`, `<table>`,
+  - `<form>`
+  - `<div>`
 - Inline elements
-    - `<img>`, `<a>`, `<span>`, `<button>`
-    - `<input>`, `<label>`, `<select>`, `<textarea>`
-    - `<abbr>` 
+  - `<img>`, `<a>`, `<span>`, `<button>`
+  - `<input>`, `<label>`, `<select>`, `<textarea>`
+  - `<abbr>`
 
 [Source](https://www.w3resource.com/html/HTML-block-level-and-inline-elements.php)
 
@@ -144,7 +144,7 @@ Anytime you catch yourself thinking...
 
 - `<header>`, `<footer>`, `<nav>`, `<section>`, `<main>`, `<aside>`
 - `<figure>`, `<figcaption>`, `<summary>`
-- `<time>`, 
+- `<time>`,
 
 ---
 
